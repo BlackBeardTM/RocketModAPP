@@ -1,0 +1,12 @@
+C:\Users\CoReFiRe\Documents\Visual Studio 2015\Projects\RocketConfigEditor\RocketConfigEditor\bin\Release\Assets\rceAssets.dll
+C:\Users\CoReFiRe\Documents\Visual Studio 2015\Projects\RocketConfigEditor\RocketConfigEditor\bin\Release\RocketConfigEditor.exe.config
+C:\Users\CoReFiRe\Documents\Visual Studio 2015\Projects\RocketConfigEditor\RocketConfigEditor\bin\Release\RocketConfigEditor.exe
+C:\Users\CoReFiRe\Documents\Visual Studio 2015\Projects\RocketConfigEditor\RocketConfigEditor\bin\Release\RocketConfigEditor.pdb
+C:\Users\CoReFiRe\Documents\Visual Studio 2015\Projects\RocketConfigEditor\RocketConfigEditor\bin\Release\rceAssets.dll
+C:\Users\CoReFiRe\Documents\Visual Studio 2015\Projects\RocketConfigEditor\RocketConfigEditor\obj\Release\RocketConfigEditor.MainForm.resources
+C:\Users\CoReFiRe\Documents\Visual Studio 2015\Projects\RocketConfigEditor\RocketConfigEditor\obj\Release\RocketConfigEditor.Options.resources
+C:\Users\CoReFiRe\Documents\Visual Studio 2015\Projects\RocketConfigEditor\RocketConfigEditor\obj\Release\RocketConfigEditor.Properties.Resources.resources
+C:\Users\CoReFiRe\Documents\Visual Studio 2015\Projects\RocketConfigEditor\RocketConfigEditor\obj\Release\RocketConfigEditor.csproj.GenerateResource.Cache
+C:\Users\CoReFiRe\Documents\Visual Studio 2015\Projects\RocketConfigEditor\RocketConfigEditor\obj\Release\RocketConfigEditor.exe
+C:\Users\CoReFiRe\Documents\Visual Studio 2015\Projects\RocketConfigEditor\RocketConfigEditor\obj\Release\RocketConfigEditor.pdb
+C:\Users\CoReFiRe\Documents\Visual Studio 2015\Projects\RocketConfigEditor\RocketConfigEditor\obj\Release\RocketConfigEditor.csprojResolveAssemblyReference.cache

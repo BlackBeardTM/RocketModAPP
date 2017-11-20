@@ -1,0 +1,5 @@
+c:\users\corefire\documents\visual studio 2015\Projects\rceAssets\rceAssets\bin\Debug\rceAssets.dll
+c:\users\corefire\documents\visual studio 2015\Projects\rceAssets\rceAssets\bin\Debug\rceAssets.pdb
+c:\users\corefire\documents\visual studio 2015\Projects\rceAssets\rceAssets\obj\Debug\rceAssets.csprojResolveAssemblyReference.cache
+c:\users\corefire\documents\visual studio 2015\Projects\rceAssets\rceAssets\obj\Debug\rceAssets.dll
+c:\users\corefire\documents\visual studio 2015\Projects\rceAssets\rceAssets\obj\Debug\rceAssets.pdb
